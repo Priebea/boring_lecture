@@ -1,0 +1,14 @@
+h2.intro {
+  color: blue;
+  font-size: 24px;
+}
+
+p.intro {
+  font-style: italic;
+  width: 50%;
+}
+
+img.intro {
+  display: inline;
+  padding: 30px;
+}
